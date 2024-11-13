@@ -20,7 +20,7 @@ src="https://github.com/tiwarianjani/tiwarianjani/assets/105651804/8e052e86-14eb
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://cdn.prod.website-files.com/619811f15cf1e46af063c233/620dc6482e585bbdb5feff64_aws-logo.png"></code>
+<code><img height="30" src="![image](https://github.com/user-attachments/assets/57c454a2-1012-4060-801a-92a5c0bb23c0)"></code>
 
 
 
